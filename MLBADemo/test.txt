@@ -1,0 +1,83 @@
+
+2016-10-27 14:33:28,213 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:33:35,024 INFO  [Utils] Elements initialized 
+2016-10-27 14:33:35,040 INFO  [Utils] [[FirefoxDriver: firefox on MAC (7ff8a18b-30a6-a744-91c0-487aaaa2bff0)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:33:35,101 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:33:35,129 INFO  [Utils] [[FirefoxDriver: firefox on MAC (7ff8a18b-30a6-a744-91c0-487aaaa2bff0)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:33:35,238 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:33:37,242 INFO  [Utils] Elements initialized 
+2016-10-27 14:33:37,374 INFO  [Utils] [[FirefoxDriver: firefox on MAC (7ff8a18b-30a6-a744-91c0-487aaaa2bff0)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:33:37,428 INFO  [Utils] Elements initialized 
+2016-10-27 14:33:37,659 INFO  [Utils] Took screen shot 
+2016-10-27 14:35:46,714 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:35:53,786 INFO  [Utils] Elements initialized 
+2016-10-27 14:35:53,799 INFO  [Utils] [[FirefoxDriver: firefox on MAC (d6537b12-6b15-b347-88a1-c33deb08d8c6)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:35:53,869 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:35:53,882 INFO  [Utils] [[FirefoxDriver: firefox on MAC (d6537b12-6b15-b347-88a1-c33deb08d8c6)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:35:53,971 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:35:58,974 INFO  [Utils] Elements initialized 
+2016-10-27 14:35:58,985 INFO  [Utils] [[FirefoxDriver: firefox on MAC (d6537b12-6b15-b347-88a1-c33deb08d8c6)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:35:59,010 INFO  [Utils] Elements initialized 
+2016-10-27 14:35:59,238 INFO  [Utils] Took screen shot 
+2016-10-27 14:37:52,650 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:37:59,338 INFO  [Utils] Elements initialized 
+2016-10-27 14:37:59,349 INFO  [Utils] [[FirefoxDriver: firefox on MAC (ce06c29f-2715-914a-ad03-34db3086daef)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:37:59,425 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:37:59,447 INFO  [Utils] [[FirefoxDriver: firefox on MAC (ce06c29f-2715-914a-ad03-34db3086daef)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:37:59,544 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:38:04,548 INFO  [Utils] Elements initialized 
+2016-10-27 14:38:04,562 INFO  [Utils] [[FirefoxDriver: firefox on MAC (ce06c29f-2715-914a-ad03-34db3086daef)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:38:04,587 INFO  [Utils] Elements initialized 
+2016-10-27 14:38:04,806 INFO  [Utils] Took screen shot 
+2016-10-27 14:40:46,512 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:40:53,316 INFO  [Utils] Elements initialized 
+2016-10-27 14:40:53,335 INFO  [Utils] [[FirefoxDriver: firefox on MAC (98c2b587-5444-2442-b028-3acc96eddf6f)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:40:53,414 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:40:53,447 INFO  [Utils] [[FirefoxDriver: firefox on MAC (98c2b587-5444-2442-b028-3acc96eddf6f)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:40:53,550 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:40:58,554 INFO  [Utils] Elements initialized 
+2016-10-27 14:40:58,601 INFO  [Utils] [[FirefoxDriver: firefox on MAC (98c2b587-5444-2442-b028-3acc96eddf6f)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:40:58,706 INFO  [Utils] Elements initialized 
+2016-10-27 14:40:58,895 INFO  [Utils] Took screen shot 
+2016-10-27 14:41:45,973 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:41:52,526 INFO  [Utils] Elements initialized 
+2016-10-27 14:41:52,540 INFO  [Utils] [[FirefoxDriver: firefox on MAC (51d1a72b-2293-2440-be29-c4930d9ad3f0)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:41:52,605 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:41:52,639 INFO  [Utils] [[FirefoxDriver: firefox on MAC (51d1a72b-2293-2440-be29-c4930d9ad3f0)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:41:52,723 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:41:57,727 INFO  [Utils] Elements initialized 
+2016-10-27 14:41:57,738 INFO  [Utils] [[FirefoxDriver: firefox on MAC (51d1a72b-2293-2440-be29-c4930d9ad3f0)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:41:57,770 INFO  [PLPEbay] The price of this product 85.99 
+2016-10-27 14:42:14,834 INFO  [Utils] Elements initialized 
+2016-10-27 14:44:22,346 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:44:31,285 INFO  [Utils] Elements initialized 
+2016-10-27 14:44:31,306 INFO  [Utils] [[FirefoxDriver: firefox on MAC (5e571f05-7a6f-894e-8568-69796fabc0bf)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:44:31,378 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:44:31,390 INFO  [Utils] [[FirefoxDriver: firefox on MAC (5e571f05-7a6f-894e-8568-69796fabc0bf)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:44:31,450 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:44:36,452 INFO  [Utils] Elements initialized 
+2016-10-27 14:44:36,469 INFO  [Utils] [[FirefoxDriver: firefox on MAC (5e571f05-7a6f-894e-8568-69796fabc0bf)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:44:36,492 INFO  [PLPEbay] 85.99 
+2016-10-27 14:44:36,493 INFO  [PLPEbay] The price of this product 85.99 
+2016-10-27 14:44:53,561 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:45:02,136 INFO  [Utils] Elements initialized 
+2016-10-27 14:45:02,149 INFO  [Utils] [[FirefoxDriver: firefox on MAC (179eb6a8-97b2-204f-9c87-939ac30d26df)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:45:02,229 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:45:02,256 INFO  [Utils] [[FirefoxDriver: firefox on MAC (179eb6a8-97b2-204f-9c87-939ac30d26df)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:45:02,372 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:45:07,378 INFO  [Utils] Elements initialized 
+2016-10-27 14:45:07,395 INFO  [Utils] [[FirefoxDriver: firefox on MAC (179eb6a8-97b2-204f-9c87-939ac30d26df)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:45:07,417 INFO  [PLPEbay] 85.99 
+2016-10-27 14:45:07,417 INFO  [PLPEbay] The price of this product 85.99 
+2016-10-27 14:52:04,971 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:52:11,569 INFO  [Utils] Elements initialized 
+2016-10-27 14:52:11,579 INFO  [Utils] [[FirefoxDriver: firefox on MAC (67a0499b-f320-6c4e-9710-7224c7b644e2)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:52:11,656 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:52:11,678 INFO  [Utils] [[FirefoxDriver: firefox on MAC (67a0499b-f320-6c4e-9710-7224c7b644e2)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:52:11,744 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:52:16,748 INFO  [Utils] Elements initialized 
+2016-10-27 14:52:16,768 INFO  [Utils] [[FirefoxDriver: firefox on MAC (67a0499b-f320-6c4e-9710-7224c7b644e2)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:52:16,804 INFO  [PLPEbay] 85.99 
+2016-10-27 14:52:16,804 INFO  [PLPEbay] The price of this product is $85.99 
+2016-10-27 14:52:55,566 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:53:36,308 INFO  [BaseTest] Browser initializing 

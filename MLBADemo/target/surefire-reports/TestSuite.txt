@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.259 sec <<< FAILURE! - in TestSuite
+start(com.mlba.ui.test.SmokeTest)  Time elapsed: 0.187 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver is not executable: /Users/Salma/Documents/workspace/MLBADemo/driver/chromedriver
+
